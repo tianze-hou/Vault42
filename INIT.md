@@ -20,7 +20,7 @@
 
 如果你暂时没有，将这套skills安装在当前目录环境下（不要全局安装）：
 
-https://github.com/kepano/obsidian-skills
+https://github.com/obsidian-skills/obsidian-skills
 
 ---
 
