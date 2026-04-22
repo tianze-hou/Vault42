@@ -18,9 +18,11 @@
 
 ## 2. 安装 Obsidian Skills（如果需要）
 
-如果你暂时没有，将这套skills安装在当前目录环境下（不要全局安装）：
+如果你暂时没有，将这套 skills 安装在当前目录环境下（不要全局安装）：
 
-https://github.com/obsidian-skills/obsidian-skills
+https://github.com/kepano/obsidian-skills
+
+> Skills 由 @kepano 开发和维护。
 
 ---
 

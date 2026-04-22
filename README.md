@@ -152,9 +152,13 @@ AI 会检查：
 
 ## 工具链
 
-- **Obsidian** — Wiki 的 IDE，支持图谱视图、本地搜索、插件生态
+- **Obsidian** — Wiki 的 IDE，支持图谱视图、本地搜索、插件生态。**推荐使用**，可获得最佳体验。
 - **LLM Agent** — 任何支持 Schema 的 Agent（通过 SCHEMA.md 理解规范）
 - **Git** — 版本控制天然的协作和历史功能
+
+### Obsidian Skills（可选）
+
+如果你使用 Obsidian，可以安装 [obsidian-skills](https://github.com/kepano/obsidian-skills)（由 [@kepano](https://github.com/kepano) 维护）来增强 AI 交互能力。初始化时会自动检测是否已安装。
 
 ### 推荐 Obsidian 插件
 
