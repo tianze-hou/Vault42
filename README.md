@@ -80,7 +80,16 @@ LLM 负责：
 └── Wiki/              ← AI 会在这里构建知识库
 ```
 
-> **提示**：Methodology.md 是方法论参考，可从 [Karpathy/llm-wiki](https://github.com/karpathy/llm-wiki) 获取。
+**初始化步骤：**
+
+1. 用任意文本编辑器打开 `INIT.md`（或在 AI Agent 中告诉它："请读取并执行初始化"）
+2. AI Agent 会自动：
+   - 检测当前工具并适配 Schema 文件
+   - 向你询问知识库主题、助手风格、主要语言
+   - 更新 SCHEMA.md 中的配置
+   - 创建必要的目录结构
+   - 初始化 Wiki/log.md
+   - **自动删除 INIT.md**（保持仓库干净）
 
 ### 2. 添加资料
 
