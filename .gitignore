@@ -1,0 +1,80 @@
+# ====================
+# Knowledge Base Template
+# ====================
+# This .gitignore ensures a clean template for distribution.
+# Template users: clone and start using immediately.
+# Your content and configuration will not include any artifacts from this setup.
+
+# ====================
+# Runtime & System
+# ====================
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ====================
+# Tool-Specific (DO NOT SYNC)
+# ====================
+
+# OpenCode Agent
+.opencode/
+
+# Ralph Loop / Sisyphus
+.sisyphus/
+
+# Logs (user's operational data)
+logs/
+
+# ====================
+# Reference (available separately)
+# ====================
+
+# Methodology - available at https://github.com/karpathy/llm-wiki
+Methodology.md
+
+# ====================
+# Init File (auto-deleted after setup)
+# ====================
+
+INIT.md
+*.bak
+*.tmp
+
+# IDE & Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ====================
+# Language/Framework
+# ====================
+
+# Node (if used by any tools)
+node_modules/
+package-lock.json
+yarn.lock
+bun.lock
+
+# Python (if used by any tools)
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# ====================
+# Build Outputs
+# ====================
+
+dist/
+build/
+*.egg-info/
+
+# ====================
+# Obsidian User Data
+# ====================
+
+.obsidian/
