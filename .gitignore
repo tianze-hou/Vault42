@@ -42,6 +42,12 @@ INIT.md
 *.bak
 *.tmp
 
+# ====================
+# Maintainer Reference (not in distribution)
+# ====================
+
+OPTIMIZATION.md
+
 # IDE & Editor
 .idea/
 .vscode/
